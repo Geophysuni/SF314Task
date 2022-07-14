@@ -1,6 +1,6 @@
 # Git push
 
-[К тексту](readme.md) [<Commit](commit.md) [Pull>](pull.md)
+[&uarr; К тексту](readme.md) [&larr;Commit](commit.md) [Pull&rarr;](pull.md)
 
 Передать новую ветку в удалённый репозиторий можно параметром push с флагом `-u`, указав имя репозитория и имя ветки.
 
